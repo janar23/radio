@@ -1,0 +1,10 @@
+/Users/janar/janars/AndroidStudioProjects/RadioApplication/radio/build/intermediates/classes/debug
+/Users/janar/janars/AndroidStudioProjects/RadioApplication/radio/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8e75b200dd8e101af030528b4814ea7b745601ca.jar
+/Users/janar/janars/AndroidStudioProjects/RadioApplication/radio/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-9e2230e9576c479c7ec583523c3594432eaa818d.jar
+/Users/janar/janars/AndroidStudioProjects/RadioApplication/radio/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-e2ce1f2ff33c28048f0cbc1abea58d4732edc429.jar
+/Users/janar/janars/AndroidStudioProjects/RadioApplication/radio/build/intermediates/pre-dexed/debug/classes-11aae04974466474fa210f1b68e5c4b7bb274d12.jar
+/Users/janar/janars/AndroidStudioProjects/RadioApplication/radio/build/intermediates/pre-dexed/debug/classes-11d742e8f072cb0c8249b5b53f6316ae0540d7cc.jar
+/Users/janar/janars/AndroidStudioProjects/RadioApplication/radio/build/intermediates/pre-dexed/debug/classes-7043dc9242e21c45f3d80e75c192231f6e921283.jar
+/Users/janar/janars/AndroidStudioProjects/RadioApplication/radio/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b091a3104239c3d8d9010a6286cd90e374384ab8.jar
+/Users/janar/janars/AndroidStudioProjects/RadioApplication/radio/build/intermediates/pre-dexed/debug/classes-176c9490b5a5d8b75e952beca8709bd5da569c3b.jar
+/Users/janar/janars/AndroidStudioProjects/RadioApplication/radio/build/intermediates/pre-dexed/debug/classes-7b848e9af88c967d9c557b4f149ee39bd06710b5.jar
